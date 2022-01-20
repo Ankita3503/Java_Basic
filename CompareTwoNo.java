@@ -10,8 +10,8 @@ public class CompareTwoNo {
         if (a == b)
             System.out.println("Number is equal.");
         else if (a<b)
-            System.out.println("B is greater then A");
+            System.out.println("B is greater than A");
         else
-            System.out.println("A is greater then B");
+            System.out.println("A is greater than B");
     }
 }
